@@ -4,7 +4,7 @@
 
 ### Software Engineer | Full Stack Developer | Data-Driven Innovator
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Expert;Full+Stack+Development;Data-Driven+Research;AI+%26+Prompt+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Development;Data-Driven+Research;AI+%26+Prompt+Engineering)](https://git.io/typing-svg)
 
 </div>
 
