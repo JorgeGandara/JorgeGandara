@@ -44,7 +44,12 @@ I'm a private tutor, I'm listed on Superprof, and I've helped my students clear 
 ## PROFESSIONAL AND PERSONAL SKILLS
 
 ### Hard skills
-Angular, AWS, C++, Claude, CSS, Data-driven Research, Django, Docker, FastAPI, Flask, Gemini, Git, GitHub, Google Workspace, GPT, Grok, Homebrew, HTML, Java, JavaScript, Linux, macOS, Meta Business Suite, MS Power Apps, MySQL, n8n, Nest, Next.js, npm, Pandas, PostgreSQL, Prisma, Process Automation, Prompt Engineering, Python, QA Testing, Railway, React, REST APIs, SaaS, Software Engineering, TypeScript, Vercel, Windows, WordPress.
+- **Languages:** Python, Java, JavaScript, TypeScript, C++, HTML, CSS
+- **Frameworks & Libraries:** FastAPI, Django, Flask, React, Angular, Nest, Next.js, Pandas, Prisma
+- **Cloud, Platforms & Tools:** AWS, Docker, Railway, Vercel, n8n, Homebrew, npm, Git, GitHub, Google Workspace, Meta Business Suite, WordPress, MS Power Apps
+- **Databases & APIs:** PostgreSQL, MySQL, REST APIs
+- **AI, Automation & Engineering:** Claude, Gemini, GPT, Grok, Prompt Engineering, Process Automation, Data-driven Research, QA Testing, SaaS, Software Engineering
+- **Operating Systems:** Linux, macOS, Windows
 
 ### Soft skills
 Analytical Skills, Creativity, Design, Fast Learner, Leadership, Proactivity, Stress Tolerance, Teamwork.
