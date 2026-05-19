@@ -1,130 +1,63 @@
-<div align="center">
-  
-# 👋 Hi, I'm Jorge Gandara
+# JORGE ANDRES GANDARA OLIVEROS
 
-### Software Engineer | Full Stack Developer | Data-Driven Innovator
+I am a systems and computer engineer with a deep passion for learning and developing innovative ideas. I combine ethical practices with proactive collaboration. My patience and tolerance help me excel in dynamic team environments, and my commitment to excellence drives me to continually seek new ways to add value and achieve organizational success.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Development;Data-Driven+Research;AI+%26+Prompt+Engineering)](https://git.io/typing-svg)
+## CONTACT ME
 
-</div>
+- **Phone:** +57 304 2195139  
+- **Location:** Colombia  
+- **Email:** [jorgegandara.2707@gmail.com](mailto:jorgegandara.2707@gmail.com)  
+- **Website:** [GitHub Profile](https://github.com/JorgeGandara)
 
----
+## PROFESSIONAL EXPERIENCE
 
-## 🚀 About Me
+### [Birdtur - Manage your agency.](https://birdtur.com) — *Currently*
+**QA Tester**
+- I lead the software quality team, where I am responsible for reporting bugs, workflow issues, and feedback regarding the UI/UX.
+- I organize meetings with clients to learn about their experience using the applications we currently have in production.
 
-I'm a passionate **Software Engineer** specializing in full-stack development, data-driven solutions, and modern web technologies. With expertise across multiple programming languages and frameworks, I build scalable, efficient, and innovative applications.
+### Multiware — *Currently*
+**CEO & Co-Founder**
+- By applying our technical and managerial expertise, we are building our startup and are currently working on two major projects:
+  - [stockify.business](https://stockify.business): A sales and inventory management platform.
+  - [mi-menu.digital](https://mi-menu.digital): Menu and process management for restaurants and bars.
 
----
+### Corporation for Science and Technology for the Development of the Maritime and Inland Waterway Shipbuilding Industry - COTECMAR — *2025*
+**Intern (Software Developer)**
+- I played a key role in designing maintenance manuals for ongoing shipbuilding projects within the company.
+- I was part of the software development team within the logistics support division of the design and engineering department, where our most significant deliverable was the ship lifecycle support portal for the Colombian Navy.
 
-## 💻 Hard Skills
+## VOLUNTEERING & OTHER ACTIVITIES
 
-### **Programming Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+### AQUA BYTE - DONES DE MISERICORDIA FOUNDATION — *Currently*
+Programming classes for children and teenagers on the island of Tierra Bomba.
 
-### **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-</p>
+### PRIVATE TUTOR FOR PROGRAMMING AND MATHEMATICS — *Currently*
+I'm a private tutor, I'm listed on Superprof, and I've helped my students clear up their doubts, learn new concepts, and pass quizzes, workshops, and midterms.
 
-### **Backend Development**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
+## EDUCATION
 
-### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+### Universidad Tecnológica de Bolívar (Bolívar Technological University) — *2021 - 2025*
+**Systems and Computer Engineering**
+- Grade: 4.1/5
 
-### **Other Technologies & Skills**
-<p>
-  <img src="https://img.shields.io/badge/Data--Driven_Research-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data-Driven Research" />
-  <img src="https://img.shields.io/badge/MS_Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="MS Power Apps" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Prompt Engineering" />
-</p>
+## PROFESSIONAL AND PERSONAL SKILLS
 
----
+### Hard skills
+Angular, AWS, C++, Claude, CSS, Data-driven Research, Django, Docker, FastAPI, Flask, Gemini, Git, GitHub, Google Workspace, GPT, Grok, Homebrew, HTML, Java, JavaScript, Linux, macOS, Meta Business Suite, MS Power Apps, MySQL, n8n, Nest, Next.js, npm, Pandas, PostgreSQL, Prisma, Process Automation, Prompt Engineering, Python, QA Testing, Railway, React, REST APIs, SaaS, Software Engineering, TypeScript, Vercel, Windows, WordPress.
 
-## 📊 Technical Expertise
+### Soft skills
+Analytical Skills, Creativity, Design, Fast Learner, Leadership, Proactivity, Stress Tolerance, Teamwork.
 
-```text
-Software Engineering      ████████████████████░   95%
-Full Stack Development    ████████████████████░   90%
-Data-Driven Research      ███████████████████░░   85%
-Backend Architecture      ████████████████████░   90%
-Frontend Development      ██████████████████░░░   80%
-Database Design           ███████████████████░░   85%
-Prompt Engineering        ████████████████░░░░░   75%
-```
+### Languages
+Spanish (native), English (B2+).
 
----
+## REFERENCES
 
-## 🛠️ Tech Stack Overview
+### Joan Martín Suárez Loaiza
+**Reliability Engineer - COTECMAR**  
++57 304 6724616 · jmsuarez@cotecmar.com
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-### Frontend
-- React
-- Angular
-- HTML5/CSS3
-- JavaScript/TypeScript
-
-</td>
-<td valign="top" width="33%">
-
-### Backend
-- Python (FastAPI, Django, Flask)
-- PHP (Laravel)
-- Java
-- C++
-
-</td>
-<td valign="top" width="33%">
-
-### Data & Tools
-- PostgreSQL
-- MySQL
-- MS Power Apps
-- WordPress
-- Data Analytics
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 Core Competencies
-
-- 🔧 **Software Engineering**: Building robust, scalable applications
-- 🎨 **Full Stack Development**: End-to-end solution architecture
-- 📊 **Data-Driven Research**: Making informed decisions through data analysis
-- 🤖 **AI & Prompt Engineering**: Leveraging AI for innovative solutions
-- 🚀 **Modern Frameworks**: Expert in FastAPI, Django, React, Angular
-- 💾 **Database Design**: Efficient data modeling and optimization
-
----
-
-<div align="center">
-
-### 📫 Let's Connect!
-
-*Feel free to reach out for collaborations or just a friendly chat!*
-
----
-
-⭐️ From [JorgeGandara](https://github.com/JorgeGandara)
-
-</div>
+### Brayan Alberto Tovar Willie
+**Process Engineer - COTECMAR**  
++57 301 3212829 · btovar@cotecmar.com
